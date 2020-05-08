@@ -55,8 +55,8 @@ int main()
 	int a,b;
 	int t;
 //	scanf("%d,%d",&a,&b);
-	a = 12; 
-	b = 11;
+	a = 10; 
+	b = 25;
 	while ( b != 0 ) {
 		t = a%b;
 		a = b;
